@@ -14,8 +14,16 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 List of topics
 
+- [Data Manipulation and Analysis](#data-manipulation-and-analysis)
 - [Data Visualization](#data-visualization)
 - [Natural Language Processing](#natural-language-processing)
+
+## Data Manipulation and Analysis
+
+*Projects for Data Manipulation and Analysis.*
+
+* [Pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+* [Polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
 
 ## Data Visualization
 
