@@ -21,14 +21,14 @@ List of topics
 
 *Projects for Data Visualization.*
 
-* Matplotlib - [GitHub](https://github.com/matplotlib/matplotlib)
-* Plotly - [GitHub](https://github.com/plotly)
-* Seaborn - [GitHub](https://github.com/mwaskom/seaborn)
-* Bokeh - [GitHub](https://github.com/bokeh/bokeh)
-* PyGWalker - [GitHub](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
+* [Matplotlib](https://github.com/matplotlib/matplotlib) - plotting with Python
+* [Plotly](https://github.com/plotly) - The interactive graphing library for Python
+* [Seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
+* [Bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from Python
+* [PyGWalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
 
 ## Natural Language Processing
 
 *Projects for Natural Language Processing.*
 
-* NLTK - [GitHub](https://github.com/nltk/nltk)
+* [NLTK](https://github.com/nltk/nltk) - NLTK (Natural Language Toolkit) is a suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing.
