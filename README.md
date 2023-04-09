@@ -22,6 +22,10 @@ List of topics
 *Projects for Data Visualization.*
 
 * Matplotlib - [GitHub](https://github.com/matplotlib/matplotlib)
+* Plotly - [GitHub](https://github.com/plotly)
+* Seaborn - [GitHub](https://github.com/mwaskom/seaborn)
+* Bokeh - [GitHub](https://github.com/bokeh/bokeh)
+* PyGWalker - [GitHub](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
 
 ## Natural Language Processing
 
