@@ -19,10 +19,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Projects for Data Visualization.*
 
-* [matplotlib](https://github.com/matplotlib/matplotlib)
+* Matplotlib - [GitHub](https://github.com/matplotlib/matplotlib)
 
 ## Natural Language Processing
 
 *Projects for Natural Language Processing.*
 
-* [nltk](https://github.com/nltk/nltk)
+* NLTK - [GitHub](https://github.com/nltk/nltk)
