@@ -17,6 +17,9 @@ List of topics
 - [Data Manipulation and Analysis](#data-manipulation-and-analysis)
 - [Data Visualization](#data-visualization)
 - [Natural Language Processing](#natural-language-processing)
+- [Scientific Computing](#scientific-computing)
+- [Statistics](#statistics)
+- [Time Series](#timeseries)
 
 ## Data Manipulation and Analysis
 
@@ -40,3 +43,27 @@ List of topics
 *Projects for Natural Language Processing.*
 
 * [NLTK](https://github.com/nltk/nltk) - NLTK (Natural Language Toolkit) is a suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing.
+
+## Scientific Computing
+
+*Projects for Scientific Computing.*
+
+* [Numpy](https://github.com/numpy/numpy)- The fundamental package for scientific computing with Python.
+* [Scipy](https://github.com/scipy/scipy)- SciPy library main repository
+
+## Statistics
+
+*Projects for Statistics.*
+
+* [Statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python
+* [Pingouin](https://github.com/raphaelvallat/pingouin) - Statistical package in Python based on Pandas
+
+## Time Series
+
+*Projects for Time Series.*
+
+* [Orbit](https://github.com/uber/orbit) - A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood.
+* [Skrime](https://github.com/sktime/sktime) - A unified framework for machine learning with time series
+* [Darts](https://github.com/unit8co/darts) - A python library for user-friendly forecasting and anomaly detection on time series.
+* [Prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
+* [Kats](https://github.com/facebookresearch/Kats) - Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends.
