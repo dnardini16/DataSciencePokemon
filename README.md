@@ -17,6 +17,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 List of topics
 
+- [Computer Vision](#computer-vision)
 - [Data Manipulation and Analysis](#data-manipulation-and-analysis)
 - [Data Visualization](#data-visualization)
 - [Machine Learning](#machine-learning)
@@ -26,12 +27,20 @@ List of topics
 - [Time Series](#timeseries)
 - [Web App for Data Science and Machine Learning](#web-app-for-data-science-and-machine-learning)
 
+## Computer Vision
+
+*Projects for Computer Vision.*
+
+* [Opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
+* [Cleanvision](https://github.com/cleanlab/cleanvision) - Automatically find issues in image datasets and practice data-centric computer vision.
+
 ## Data Manipulation and Analysis
 
 *Projects for Data Manipulation and Analysis.*
 
 * [Pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 * [Polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
+* [Skimpy](https://github.com/aeturrell/skimpy) - skimpy is a light weight tool that provides summary statistics about variables in data frames within the console.
 
 ## Data Visualization
 
@@ -56,6 +65,13 @@ List of topics
 *Projects for Natural Language Processing.*
 
 * [NLTK](https://github.com/nltk/nltk) - NLTK (Natural Language Toolkit) is a suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing.
+* [gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans
+* [spaCy](https://github.com/explosion/spaCy) -  Industrial-strength Natural Language Processing (NLP) in Python
+* [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
+* [textstat](https://github.com/textstat/textstat) - python package to calculate readability statistics of a text object - paragraphs, sentences, articles.
+* [texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero.
+* [clean-text](https://github.com/jfilter/clean-text) - Python package for text cleaning
+* [lingua-py](https://github.com/pemistahl/lingua-py) - The most accurate natural language detection library for Python, suitable for long and short text alike
 
 ## Scientific Computing
 
