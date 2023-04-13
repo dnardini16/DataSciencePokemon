@@ -1,6 +1,8 @@
 <p align="center" width="100%">
-    <img width="33%" src="https://raw.githubusercontent.com/dnardini16/DataSciencePokemon/main/logo.png"> 
+    <img width="66%" src="https://raw.githubusercontent.com/dnardini16/DataSciencePokemon/main/logo.png"> 
 </p>
+
+
 # Data Science Pokémon
 
 Curated list of fabulous Python Projects for Data Science and Machine Learning. Update every week (hopefully)!
