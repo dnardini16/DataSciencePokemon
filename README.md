@@ -19,10 +19,12 @@ List of topics
 
 - [Data Manipulation and Analysis](#data-manipulation-and-analysis)
 - [Data Visualization](#data-visualization)
+- [Machine Learning](#machine-learning)
 - [Natural Language Processing](#natural-language-processing)
 - [Scientific Computing](#scientific-computing)
 - [Statistics](#statistics)
 - [Time Series](#timeseries)
+- [Web App for Data Science and Machine Learning](#web-app-for-data-science-and-machine-learning)
 
 ## Data Manipulation and Analysis
 
@@ -40,6 +42,14 @@ List of topics
 * [Seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
 * [Bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from Python
 * [PyGWalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
+
+## Machine Learning
+
+*Projects for Machine Learning.*
+
+* [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
+* [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning
+* [PyGAD](https://github.com/ahmedfgad/GeneticAlgorithmPython) - Source code of PyGAD, a Python 3 library for building the genetic algorithm and training machine learning algorithms (Keras & PyTorch).
 
 ## Natural Language Processing
 
@@ -70,3 +80,11 @@ List of topics
 * [Darts](https://github.com/unit8co/darts) - A python library for user-friendly forecasting and anomaly detection on time series.
 * [Prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 * [Kats](https://github.com/facebookresearch/Kats) - Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends.
+
+## Web App for Data Science and Machine Learning
+
+*Projects for Web App for Data Science and Machine Learning.*
+
+* [gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
+* [Dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
+* [Streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
