@@ -104,3 +104,4 @@ List of topics
 * [gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 * [Dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 * [Streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
+* [Panel](https://github.com/holoviz/panel) - A high-level app and dashboarding solution for Python
