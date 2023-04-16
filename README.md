@@ -34,6 +34,7 @@ List of topics
 * [Opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 * [Cleanvision](https://github.com/cleanlab/cleanvision) - Automatically find issues in image datasets and practice data-centric computer vision.
 * [Python Tesseract](https://github.com/madmaze/pytesseract) - A Python wrapper for Google Tesseract
+* [Face Recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 
 ## Data Manipulation and Analysis
 
