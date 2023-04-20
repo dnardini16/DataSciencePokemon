@@ -74,6 +74,7 @@ List of topics
 * [texthero](https://github.com/jbesomi/texthero) - Text preprocessing, representation and visualization from zero to hero.
 * [clean-text](https://github.com/jfilter/clean-text) - Python package for text cleaning
 * [lingua-py](https://github.com/pemistahl/lingua-py) - The most accurate natural language detection library for Python, suitable for long and short text alike
+* [langdetect](https://github.com/Mimino666/langdetect) - Port of Google's language-detection library to Python.
 
 ## Scientific Computing
 
