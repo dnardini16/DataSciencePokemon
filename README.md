@@ -76,6 +76,7 @@ List of topics
 * [clean-text](https://github.com/jfilter/clean-text) - Python package for text cleaning
 * [lingua-py](https://github.com/pemistahl/lingua-py) - The most accurate natural language detection library for Python, suitable for long and short text alike
 * [langdetect](https://github.com/Mimino666/langdetect) - Port of Google's language-detection library to Python.
+* [Neattext](https://github.com/Jcharis/neattext) - NeatText a simple NLP package for cleaning textual data and text preprocessing
 
 ## Scientific Computing
 
