@@ -18,6 +18,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 List of topics
 
 - [Computer Vision](#computer-vision)
+- [Data API](#data-api)
 - [Data Manipulation and Analysis](#data-manipulation-and-analysis)
 - [Data Visualization](#data-visualization)
 - [Machine Learning](#machine-learning)
@@ -35,6 +36,12 @@ List of topics
 * [Cleanvision](https://github.com/cleanlab/cleanvision) - Automatically find issues in image datasets and practice data-centric computer vision.
 * [Python Tesseract](https://github.com/madmaze/pytesseract) - A Python wrapper for Google Tesseract
 * [Face Recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
+
+## Data API
+
+*Projects for stream of Data with API.*
+
+* [statsbombpy](https://github.com/statsbomb/statsbombpy) - Easily stream StatsBomb data into Python
 
 ## Data Manipulation and Analysis
 
