@@ -57,6 +57,7 @@ List of topics
 
 *Projects for Data Visualization.*
 
+* [Chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts
 * [Matplotlib](https://github.com/matplotlib/matplotlib) - plotting with Python
 * [Plotly](https://github.com/plotly) - The interactive graphing library for Python
 * [Seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
