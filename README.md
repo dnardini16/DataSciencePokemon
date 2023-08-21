@@ -71,6 +71,7 @@ List of topics
 * [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 * [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning
 * [PyGAD](https://github.com/ahmedfgad/GeneticAlgorithmPython) - Source code of PyGAD, a Python 3 library for building the genetic algorithm and training machine learning algorithms (Keras & PyTorch).
+* [shap](https://github.com/shap/shap) - A game theoretic approach to explain the output of any machine learning model.
 
 ## Natural Language Processing
 
