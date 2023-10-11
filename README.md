@@ -17,16 +17,24 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 List of topics
 
+- [Annotation](#annotation)
 - [Computer Vision](#computer-vision)
 - [Data API](#data-api)
 - [Data Manipulation and Analysis](#data-manipulation-and-analysis)
 - [Data Visualization](#data-visualization)
+- [Geopmap Visualization](#geopmap-visualization)
 - [Machine Learning](#machine-learning)
 - [Natural Language Processing](#natural-language-processing)
 - [Scientific Computing](#scientific-computing)
 - [Statistics](#statistics)
 - [Time Series](#timeseries)
 - [Web App for Data Science and Machine Learning](#web-app-for-data-science-and-machine-learning)
+
+## Annotation
+
+*Projects for Annotation.*
+
+* [pigeon](https://github.com/agermanidis/pigeon) - 🐦 Quickly annotate data from the comfort of your Jupyter notebook
 
 ## Computer Vision
 
@@ -36,6 +44,7 @@ List of topics
 * [Cleanvision](https://github.com/cleanlab/cleanvision) - Automatically find issues in image datasets and practice data-centric computer vision.
 * [Python Tesseract](https://github.com/madmaze/pytesseract) - A Python wrapper for Google Tesseract
 * [Face Recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
+* [EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 
 ## Data API
 
@@ -63,6 +72,15 @@ List of topics
 * [Seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
 * [Bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from Python
 * [PyGWalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
+* [pyvis](https://github.com/WestHealth/pyvis) - Python package for creating and visualizing interactive network graphs.
+
+## Geopmap Visualization
+
+*Projects for Geopmap Visualization.*
+
+* [folium](https://github.com/python-visualization/folium) - Python Data. Leaflet.js Maps.
+* [leafmap](https://github.com/opengeos/leafmap) - A Python package for interactive mapping and geospatial analysis with minimal coding in a Jupyter environment
+
 
 ## Machine Learning
 
